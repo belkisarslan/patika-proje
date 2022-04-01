@@ -28,3 +28,4 @@ Bu şekilde devam ettiğimizde çıkan sonuç:
  [0]          [3]
          [2]      [4]
 ```
+Patika link: https://app.patika.dev/belkisarslan

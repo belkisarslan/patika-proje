@@ -33,6 +33,6 @@ En iyi ihtimalle dizinin sıralı yada çoğunlukla sıralı gelmesi durumunda b
 2 3 4 | 8 7 9 5 15 6
 2 3 4 5 | 7 9 8 15 6
 ```
-
+Patika link: https://app.patika.dev/belkisarslan
 
 
